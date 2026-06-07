@@ -76,7 +76,7 @@ My goal is to gain hands-on experience through projects and collaborations while
 ## 📜 Certifications
 
 🏆 Full Stack Developer Bootcamp by GeeksforGeeks
-🏆 Quaterfinalist-Technovation Girls Hackathon
+🏆 Quarterfinalist-Technovation Girls Hackathon
 
 ---
 
